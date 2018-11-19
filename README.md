@@ -1,4 +1,4 @@
-# AxisBank AI Challenge - Fake Signature Verification using Siamese Neural Network
+# Axis Bank AI Challenge - Fake Signature Verification using Siamese Neural Network
 Google Colab Notebook Link: [axis_fake_signature_verification.ipynb](https://colab.research.google.com/drive/10nJkzOW5IND4-TZtqhplMlz39ROIMqrc)
 
 ![](https://i.stack.imgur.com/j7mj1.png)
