@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.so
+
+build/
+dist/
+*.egg-info/
+.eggs/
+.coverage
+coverage.xml
+
+.pytest_cache/
+_build/
+
+# vscode
+.vscode
