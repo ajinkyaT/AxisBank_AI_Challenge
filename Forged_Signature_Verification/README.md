@@ -5,10 +5,10 @@ Based on Paper by Yann Lecun, ["Signature verification using a "Siamese" time de
 
 ![](https://i.stack.imgur.com/j7mj1.png)
 
-![](/images/same.png)
+![](/Forged_Signature_Verification/images/same.png)
 
-![](/images/same_person.png)
+![](/Forged_Signature_Verification/images/same_person.png)
 
-![](/images/forged.png)
+![](/Forged_Signature_Verification/images/forged.png)
 
-![](/images/different.png)
+![](/Forged_Signature_Verification/images/different.png)
