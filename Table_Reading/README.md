@@ -5,4 +5,4 @@
 
 [Excalibur](https://github.com/ajinkyaT/AxisBank_AI_Challenge/tree/master/Table_Reading/excalibur-master): Forked from [Excalibur: A web interface to extract tabular data from PDFs](https://github.com/camelot-dev/excalibur)
 
-![](/images/excaliber.gif)
+![](/Table_Reading/images/excaliber.gif)
